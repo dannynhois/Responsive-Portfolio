@@ -1,2 +1,2 @@
-# Basic-Portfolio
-basic portfolio for week 1 homework
+# Responsive-Portfolio
+responsive portfolio for week 2 homework
